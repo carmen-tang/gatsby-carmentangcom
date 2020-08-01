@@ -10,7 +10,7 @@ import Layout from '../components/Layout'
 
 const ParallaxHeading = () => (
   <Parallax className="custom-class" x={[10, 40]} y={[2000, 20]} tagOuter="figure">
-      <h1 className="head heading--stroke-shadow">carmentang.io</h1>
+      <h1 className="head heading--stroke-shadow">carmentang.com</h1>
   </Parallax>
 );
 
